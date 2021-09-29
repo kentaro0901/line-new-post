@@ -1,6 +1,6 @@
-# README
+# line-new-post
 
-## line-new-post
+## 概要
 WordPressに新規投稿をした際に公式LINEに投稿を知らせるプログラム．
 
 ## 実行環境
@@ -9,7 +9,7 @@ WordPress上で動作．
 ## 事前準備
 1. LINE公式アカウントの作成
 2. チャンネルアクセストークンの取得
-3. CodeSnippetsなどの導入
+3. [CodeSnippets](https://ja.wordpress.org/plugins/code-snippets/)などの導入
 
 ## 使い方
 1. `main.php`の内容をWordPressテーマディレクトリ内の`function.php`に書き移すか，CodeSnippetsプラグインに追加する．
